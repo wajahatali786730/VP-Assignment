@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vpassign1", "vpassign1.csproj", "{130BD801-E4F3-4101-A31C-40F82CF7ECCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130BD801-E4F3-4101-A31C-40F82CF7ECCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130BD801-E4F3-4101-A31C-40F82CF7ECCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130BD801-E4F3-4101-A31C-40F82CF7ECCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130BD801-E4F3-4101-A31C-40F82CF7ECCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47725A97-FAA3-4505-8DD4-6FE62E8ED66D}
+	EndGlobalSection
+EndGlobal
